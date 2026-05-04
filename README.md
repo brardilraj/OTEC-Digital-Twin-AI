@@ -39,7 +39,7 @@ The model successfully mapped the complex, non-linear relationships of the plant
 ![Scatter Plot Accuracy](real_actual_vs_predicted.png)
 
 ## 📂 Repository Structure
-* `OTEC_Digital_Twin_Forecaster.ipynb` : Google Colab Jupyter Notebook containing the data pipeline, thermodynamic calculations, and XGBoost training code.
+* `OTEC_Digital_Twin_Simulation.ipynb` : Google Colab Jupyter Notebook containing the data pipeline, thermodynamic calculations, and XGBoost training code.
 * `subset.nc` : Cleaned dataset containing 11 years of localized oceanic temperatures and calculated power outputs.
 * `Images/` : Contains architecture diagrams and matplotlib graphs used in the paper.
 
